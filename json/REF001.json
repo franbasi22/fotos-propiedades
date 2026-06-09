@@ -1,0 +1,314 @@
+[
+    {
+        "reference_code":  "REF001",
+        "updated_at":  "2026-06-09 23:03:58",
+        "status":  2,
+        "property_type":  3,
+        "publication_title":  "Casa de 5 dormitorios con jardín y pileta en Los Lagartos Country Club",
+        "description":  "Casa de 5 dormitorios con jardín y pileta en Los Lagartos Country Club, Pilar.\n\nSobre un lote de 554 m², la propiedad se desarrolla en dos plantas con 245 m² cubiertos, una distribución clara y espacios sociales de escala generosa.\n\nLa planta baja se ordena alrededor de un living comedor luminoso con hogar a leña, abierto al verde a través de amplios ventanales. Una galería techada extiende la vida social hacia el jardín y la pileta durante todo el año. La cocina, renovada, suma superficies de trabajo generosas, gran capacidad de guardado y conexión directa con lavadero independiente, patio interno, despensa y depósito. Completan este nivel un escritorio —utilizable como quinto dormitorio—, una suite y toilette de recepción.\n\nEn la planta alta, la master suite incorpora un vestidor de grandes dimensiones, acompañada por una junior suite y un tercer dormitorio con baño exclusivo. Los baños de este nivel fueron actualizados recientemente.\n\nEl exterior completa la propuesta con quincho con parrilla y baño de pileta, integrados al jardín parquizado.\n\nDetalles destacados:\n- Calefacción por losa radiante\n- Aberturas con doble vidriado (parcial)\n- Aire acondicionado individual\n- Armarios empotrados\n- 3 cocheras\n- 2 toilettes\n- Antigüedad: 8 años, condición excelente\n\nSeguridad y amenities de Los Lagartos Country Club.",
+        "internal_comments":  "Carga via importador. Datos para completar a mano (codigos de atributo no verificados aun): toilettes: 2 | plantas: 2 | expensas: 1.000.000 | situacion: habitada | servicios: electricidad, gas natural, agua potable, agua corriente, cloaca.",
+        "location":  "25246",
+        "age":  8,
+        "operations":  [
+                           {
+                               "type":  1,
+                               "prices":  [
+                                              {
+                                                  "currency":  "USD",
+                                                  "price":  500000,
+                                                  "period":  ""
+                                              }
+                                          ]
+                           }
+                       ],
+        "attributes":  [
+                           {
+                               "code":  "total_surface",
+                               "value":  "554"
+                           },
+                           {
+                               "code":  "roofed_surface",
+                               "value":  "245"
+                           },
+                           {
+                               "code":  "room_amount",
+                               "value":  "6"
+                           },
+                           {
+                               "code":  "bathroom_amount",
+                               "value":  "4"
+                           },
+                           {
+                               "code":  "suite_amount",
+                               "value":  "3"
+                           }
+                       ],
+        "images":  [
+                       {
+                           "url":  "https://raw.githubusercontent.com/franbasi22/fotos-propiedades/master/REF001/01.jpg",
+                           "description":  "Fachada",
+                           "is_blueprint":  false
+                       },
+                       {
+                           "url":  "https://raw.githubusercontent.com/franbasi22/fotos-propiedades/master/REF001/02.jpg",
+                           "description":  "Frente",
+                           "is_blueprint":  false
+                       },
+                       {
+                           "url":  "https://raw.githubusercontent.com/franbasi22/fotos-propiedades/master/REF001/03.jpg",
+                           "description":  "Jardín",
+                           "is_blueprint":  false
+                       },
+                       {
+                           "url":  "https://raw.githubusercontent.com/franbasi22/fotos-propiedades/master/REF001/04.jpg",
+                           "description":  "Jardín y pileta",
+                           "is_blueprint":  false
+                       },
+                       {
+                           "url":  "https://raw.githubusercontent.com/franbasi22/fotos-propiedades/master/REF001/05.jpg",
+                           "description":  "Contrafrente",
+                           "is_blueprint":  false
+                       },
+                       {
+                           "url":  "https://raw.githubusercontent.com/franbasi22/fotos-propiedades/master/REF001/06.jpg",
+                           "description":  "Vista aérea del jardín y pileta",
+                           "is_blueprint":  false
+                       },
+                       {
+                           "url":  "https://raw.githubusercontent.com/franbasi22/fotos-propiedades/master/REF001/07.jpg",
+                           "description":  "Pileta",
+                           "is_blueprint":  false
+                       },
+                       {
+                           "url":  "https://raw.githubusercontent.com/franbasi22/fotos-propiedades/master/REF001/08.jpg",
+                           "description":  "Galería",
+                           "is_blueprint":  false
+                       },
+                       {
+                           "url":  "https://raw.githubusercontent.com/franbasi22/fotos-propiedades/master/REF001/09.jpg",
+                           "description":  "Patio",
+                           "is_blueprint":  false
+                       },
+                       {
+                           "url":  "https://raw.githubusercontent.com/franbasi22/fotos-propiedades/master/REF001/10.jpg",
+                           "description":  "Living comedor",
+                           "is_blueprint":  false
+                       },
+                       {
+                           "url":  "https://raw.githubusercontent.com/franbasi22/fotos-propiedades/master/REF001/11.jpg",
+                           "description":  "Living",
+                           "is_blueprint":  false
+                       },
+                       {
+                           "url":  "https://raw.githubusercontent.com/franbasi22/fotos-propiedades/master/REF001/12.jpg",
+                           "description":  "Living",
+                           "is_blueprint":  false
+                       },
+                       {
+                           "url":  "https://raw.githubusercontent.com/franbasi22/fotos-propiedades/master/REF001/13.jpg",
+                           "description":  "Comedor",
+                           "is_blueprint":  false
+                       },
+                       {
+                           "url":  "https://raw.githubusercontent.com/franbasi22/fotos-propiedades/master/REF001/14.jpg",
+                           "description":  "Comedor",
+                           "is_blueprint":  false
+                       },
+                       {
+                           "url":  "https://raw.githubusercontent.com/franbasi22/fotos-propiedades/master/REF001/15.jpg",
+                           "description":  "Cocina",
+                           "is_blueprint":  false
+                       },
+                       {
+                           "url":  "https://raw.githubusercontent.com/franbasi22/fotos-propiedades/master/REF001/16.jpg",
+                           "description":  "Cocina",
+                           "is_blueprint":  false
+                       },
+                       {
+                           "url":  "https://raw.githubusercontent.com/franbasi22/fotos-propiedades/master/REF001/17.jpg",
+                           "description":  "Cocina",
+                           "is_blueprint":  false
+                       },
+                       {
+                           "url":  "https://raw.githubusercontent.com/franbasi22/fotos-propiedades/master/REF001/18.jpg",
+                           "description":  "Escalera",
+                           "is_blueprint":  false
+                       },
+                       {
+                           "url":  "https://raw.githubusercontent.com/franbasi22/fotos-propiedades/master/REF001/19.jpg",
+                           "description":  "Escalera",
+                           "is_blueprint":  false
+                       },
+                       {
+                           "url":  "https://raw.githubusercontent.com/franbasi22/fotos-propiedades/master/REF001/20.jpg",
+                           "description":  "Escalera",
+                           "is_blueprint":  false
+                       },
+                       {
+                           "url":  "https://raw.githubusercontent.com/franbasi22/fotos-propiedades/master/REF001/21.jpg",
+                           "description":  "Quincho con parrilla",
+                           "is_blueprint":  false
+                       },
+                       {
+                           "url":  "https://raw.githubusercontent.com/franbasi22/fotos-propiedades/master/REF001/22.jpg",
+                           "description":  "Quincho",
+                           "is_blueprint":  false
+                       },
+                       {
+                           "url":  "https://raw.githubusercontent.com/franbasi22/fotos-propiedades/master/REF001/23.jpg",
+                           "description":  "Quincho",
+                           "is_blueprint":  false
+                       },
+                       {
+                           "url":  "https://raw.githubusercontent.com/franbasi22/fotos-propiedades/master/REF001/24.jpg",
+                           "description":  "Quincho",
+                           "is_blueprint":  false
+                       },
+                       {
+                           "url":  "https://raw.githubusercontent.com/franbasi22/fotos-propiedades/master/REF001/25.jpg",
+                           "description":  "Suite principal",
+                           "is_blueprint":  false
+                       },
+                       {
+                           "url":  "https://raw.githubusercontent.com/franbasi22/fotos-propiedades/master/REF001/26.jpg",
+                           "description":  "Suite principal",
+                           "is_blueprint":  false
+                       },
+                       {
+                           "url":  "https://raw.githubusercontent.com/franbasi22/fotos-propiedades/master/REF001/27.jpg",
+                           "description":  "Suite principal",
+                           "is_blueprint":  false
+                       },
+                       {
+                           "url":  "https://raw.githubusercontent.com/franbasi22/fotos-propiedades/master/REF001/28.jpg",
+                           "description":  "Suite principal",
+                           "is_blueprint":  false
+                       },
+                       {
+                           "url":  "https://raw.githubusercontent.com/franbasi22/fotos-propiedades/master/REF001/29.jpg",
+                           "description":  "Vestidor",
+                           "is_blueprint":  false
+                       },
+                       {
+                           "url":  "https://raw.githubusercontent.com/franbasi22/fotos-propiedades/master/REF001/30.jpg",
+                           "description":  "Vestidor",
+                           "is_blueprint":  false
+                       },
+                       {
+                           "url":  "https://raw.githubusercontent.com/franbasi22/fotos-propiedades/master/REF001/31.jpg",
+                           "description":  "Antebaño",
+                           "is_blueprint":  false
+                       },
+                       {
+                           "url":  "https://raw.githubusercontent.com/franbasi22/fotos-propiedades/master/REF001/32.jpg",
+                           "description":  "Antebaño",
+                           "is_blueprint":  false
+                       },
+                       {
+                           "url":  "https://raw.githubusercontent.com/franbasi22/fotos-propiedades/master/REF001/33.jpg",
+                           "description":  "Baño de la suite",
+                           "is_blueprint":  false
+                       },
+                       {
+                           "url":  "https://raw.githubusercontent.com/franbasi22/fotos-propiedades/master/REF001/34.jpg",
+                           "description":  "Dormitorio",
+                           "is_blueprint":  false
+                       },
+                       {
+                           "url":  "https://raw.githubusercontent.com/franbasi22/fotos-propiedades/master/REF001/35.jpg",
+                           "description":  "Dormitorio",
+                           "is_blueprint":  false
+                       },
+                       {
+                           "url":  "https://raw.githubusercontent.com/franbasi22/fotos-propiedades/master/REF001/36.jpg",
+                           "description":  "Dormitorio",
+                           "is_blueprint":  false
+                       },
+                       {
+                           "url":  "https://raw.githubusercontent.com/franbasi22/fotos-propiedades/master/REF001/37.jpg",
+                           "description":  "Dormitorio",
+                           "is_blueprint":  false
+                       },
+                       {
+                           "url":  "https://raw.githubusercontent.com/franbasi22/fotos-propiedades/master/REF001/38.jpg",
+                           "description":  "Dormitorio en suite",
+                           "is_blueprint":  false
+                       },
+                       {
+                           "url":  "https://raw.githubusercontent.com/franbasi22/fotos-propiedades/master/REF001/39.jpg",
+                           "description":  "Dormitorio",
+                           "is_blueprint":  false
+                       },
+                       {
+                           "url":  "https://raw.githubusercontent.com/franbasi22/fotos-propiedades/master/REF001/40.jpg",
+                           "description":  "Dormitorio",
+                           "is_blueprint":  false
+                       },
+                       {
+                           "url":  "https://raw.githubusercontent.com/franbasi22/fotos-propiedades/master/REF001/41.jpg",
+                           "description":  "Dormitorio",
+                           "is_blueprint":  false
+                       },
+                       {
+                           "url":  "https://raw.githubusercontent.com/franbasi22/fotos-propiedades/master/REF001/42.jpg",
+                           "description":  "Dormitorio",
+                           "is_blueprint":  false
+                       },
+                       {
+                           "url":  "https://raw.githubusercontent.com/franbasi22/fotos-propiedades/master/REF001/43.jpg",
+                           "description":  "Dormitorio",
+                           "is_blueprint":  false
+                       },
+                       {
+                           "url":  "https://raw.githubusercontent.com/franbasi22/fotos-propiedades/master/REF001/44.jpg",
+                           "description":  "Dormitorio",
+                           "is_blueprint":  false
+                       },
+                       {
+                           "url":  "https://raw.githubusercontent.com/franbasi22/fotos-propiedades/master/REF001/45.jpg",
+                           "description":  "Pasillo",
+                           "is_blueprint":  false
+                       },
+                       {
+                           "url":  "https://raw.githubusercontent.com/franbasi22/fotos-propiedades/master/REF001/46.jpg",
+                           "description":  "Baño",
+                           "is_blueprint":  false
+                       },
+                       {
+                           "url":  "https://raw.githubusercontent.com/franbasi22/fotos-propiedades/master/REF001/47.jpg",
+                           "description":  "Baño",
+                           "is_blueprint":  false
+                       },
+                       {
+                           "url":  "https://raw.githubusercontent.com/franbasi22/fotos-propiedades/master/REF001/48.jpg",
+                           "description":  "Baño",
+                           "is_blueprint":  false
+                       },
+                       {
+                           "url":  "https://raw.githubusercontent.com/franbasi22/fotos-propiedades/master/REF001/49.jpg",
+                           "description":  "Baño",
+                           "is_blueprint":  false
+                       },
+                       {
+                           "url":  "https://raw.githubusercontent.com/franbasi22/fotos-propiedades/master/REF001/50.jpg",
+                           "description":  "Baño",
+                           "is_blueprint":  false
+                       },
+                       {
+                           "url":  "https://raw.githubusercontent.com/franbasi22/fotos-propiedades/master/REF001/51.jpg",
+                           "description":  "Baño",
+                           "is_blueprint":  false
+                       },
+                       {
+                           "url":  "https://raw.githubusercontent.com/franbasi22/fotos-propiedades/master/REF001/52.jpg",
+                           "description":  "Baño",
+                           "is_blueprint":  false
+                       },
+                       {
+                           "url":  "https://raw.githubusercontent.com/franbasi22/fotos-propiedades/master/REF001/53.jpg",
+                           "description":  "Toilette",
+                           "is_blueprint":  false
+                       }
+                   ]
+    }
+]
